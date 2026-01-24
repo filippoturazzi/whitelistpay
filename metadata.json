@@ -1,0 +1,5 @@
+{
+  "name": "Whitelist Pay",
+  "description": "Plataforma de automação de Whitelist paga para servidores FiveM com pagamentos via PIX e dashboard financeira.",
+  "requestFramePermissions": []
+}
