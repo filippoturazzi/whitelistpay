@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="flex items-center gap-2 mb-6">
              
               <img
-                src="/logo2.png"
+                src="components/assets/logo2.png"
                 alt="Logo"
                 className="h-20 w-auto"
                 style={{ objectFit: 'contain' }}

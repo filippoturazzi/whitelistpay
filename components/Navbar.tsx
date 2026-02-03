@@ -42,7 +42,7 @@ const Navbar = ({ currentPath = '/' }: NavbarProps) => {
           className="flex items-center gap-3 group cursor-pointer"
         >
       <img
-            src="/logo.png"
+            src="components/assets/logo.png"
             alt="Logo"
             className="h-10 w-auto"
             style={{ objectFit: 'contain' }}
